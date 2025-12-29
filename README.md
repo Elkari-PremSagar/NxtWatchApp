@@ -55,6 +55,6 @@ The application allows users to log in, browse videos across multiple categories
 ---
 
 ## 🔑 Login Credentials (For Testing)
-Username: rahul
-Password: rahul@2021
+=>Username: rahul
+=>Password: rahul@2021
 
