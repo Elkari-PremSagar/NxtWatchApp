@@ -5,6 +5,12 @@ This project demonstrates the practical implementation of core React concepts su
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Deployed URL**:🔗 https://nxtwatchprem.ccbp.tech  
+🔗 **GitHub Repository**: https://github.com/Elkari-PremSagar/NxtWatchApp.git
+
+---
 ## 🚀 Project Overview
 
 In this project, we build **Nxt Watch** by applying all the concepts learned so far in the React course.  
